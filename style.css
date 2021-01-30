@@ -1,3 +1,10 @@
 h1 {
   margin-bottom: 30px;
 }
+
+.accordion {
+  background-color: rgb(129, 219, 116);
+}
+.accordion-body p {
+  color: rgb(17, 7, 7);
+}
